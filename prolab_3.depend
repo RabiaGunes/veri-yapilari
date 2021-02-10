@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1576671766 source:c:\users\monster\desktop\yeni_kod_calismalarim\prolab_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576785366 source:c:\users\monster\desktop\prolab_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

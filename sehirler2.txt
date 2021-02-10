@@ -1,0 +1,6 @@
+1,Adana,AK,6,Hatay,Osmaniye,Kahramanmaras,Kayseri,Nigde,Mersin
+2,Adiyaman,GA,5,Sanliurfa,Diyarbakir,Malatya,Kahramanmaras,Gaziantep
+3,Afyonkarahisar,EG,7,Isparta,Konya,Eskisehir,Kutahya,Usak,Denizli,Burdur
+4,Agri,DA,6,Van,Igdir,Kars,Erzurum,Mus,Bitlis
+5,Amasya,KA,4,Yozgat,Tokat,Samsun,Corum
+
